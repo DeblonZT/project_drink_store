@@ -1,5 +1,5 @@
 ## 👥 Nama Kelompok
-Proyek ini dikembangkan oleh **[Tulis Nama Kelompok Anda Disini]**:
+Proyek ini dikembangkan oleh **Three Wish**:
 
 * **[Ardhika Damar]**
 * **[Hizqil Faza]**
