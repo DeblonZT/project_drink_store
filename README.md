@@ -1,9 +1,9 @@
 ## 👥 Nama Kelompok
 Proyek ini dikembangkan oleh **Three Wish**:
 
-* **[Ardhika Damar]**
-* **[Hizqil Faza]**
-* **[Kirana Uzhaima]**
+* **[Ardhika Damar Bachtiar]**
+* **[Hizqil Faza Ramadhan]**
+* **[Kirana Uzhaima Putri]**
 
 ---
 
